@@ -1,40 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projets on Shoggoth Industries</title>
+    <title>Projets on Project Glass Coil</title>
     <link>http://localhost:1313/projet/</link>
-    <description>Recent content in Projets on Shoggoth Industries</description>
+    <description>Recent content in Projets on Project Glass Coil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <atom:link href="http://localhost:1313/projet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projet/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Control Nothing : Project Glass Coil</title>
-      <link>http://localhost:1313/projet/glass-coil/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>CX-Programmer — Simple Password Recovery</title>
+      <link>http://localhost:1313/projet/omron_cx-programmer/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projet/glass-coil/</guid>
+      <guid>http://localhost:1313/projet/omron_cx-programmer/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Control Nothing : Project Loving of the Log</title>
-      <link>http://localhost:1313/projet/loving-of-the-log/</link>
+      <title>DELTA DIAScreen file password bypass (.dpa file)</title>
+      <link>http://localhost:1313/projet/delta_diascreen_dpa_file/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projet/loving-of-the-log/</guid>
+      <guid>http://localhost:1313/projet/delta_diascreen_dpa_file/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Shoggoth Academie</title>
-      <link>http://localhost:1313/projet/academie/</link>
+      <title>Recover password from Beckoof TwinCat 2 (.pro) protected file.</title>
+      <link>http://localhost:1313/projet/beckoff_twincat2_pro_file/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projet/academie/</guid>
+      <guid>http://localhost:1313/projet/beckoff_twincat2_pro_file/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Recover password from DELTA DOPSoft 4 .dpa protected file</title>
+      <link>http://localhost:1313/projet/delta_dopsoft4_dpa_file/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projet/delta_dopsoft4_dpa_file/</guid>
       <description></description>
       
     </item>

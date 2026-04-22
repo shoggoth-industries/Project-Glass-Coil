@@ -1,8 +1,8 @@
 ---
-title: "Shoggoth Industries"
-description: "We explore the unknown, control nothing, and learn everything."
+title: "Project Glass Coil"
+description: ""
 ---
 
 <span style="color: black;">
-Our goal is to share information related to cybersecurity. We believe that knowledge should be free and accessible, and that only the application of that knowledge should be charged for. 
+The Glass-Coil project aims to demonstrate vulnerabilities in EWS (Engineering WorkStation) software, specifically regarding the management of file access controls used by this software.
 </span>

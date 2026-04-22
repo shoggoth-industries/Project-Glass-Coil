@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 4
-title = "Shoggoth Industries"
+title = "Project Glass Coil"
 
 [params]
   displayName = "EN"
