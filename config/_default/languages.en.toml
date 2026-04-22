@@ -11,7 +11,7 @@ title = "Project Glass Coil"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  description = "The Glass-Coil project aims to demonstrate vulnerabilities in EWS (Engineering WorkStation) software, specifically regarding the management of file access controls used by this software."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 # [params.author]

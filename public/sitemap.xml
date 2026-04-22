@@ -21,6 +21,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:40573/projet/delta_diascreen_dpa_file/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:40573/projet/beckoff_twincat2_pro_file/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

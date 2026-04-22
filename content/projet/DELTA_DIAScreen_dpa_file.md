@@ -1,7 +1,6 @@
 ---
 title: "DELTA DIAScreen file password bypass (.dpa file)"
 description: "Monitor your ICS systems"
-externalUrl: "https://google.fr"
 showDate: false
 showReadingTime: false
 ---
