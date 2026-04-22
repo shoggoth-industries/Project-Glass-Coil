@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on Shoggoth Industries</title>
+    <link>http://localhost:1313/projet/</link>
+    <description>Recent content in Projets on Shoggoth Industries</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="http://localhost:1313/projet/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Control Nothing : Project Glass Coil</title>
+      <link>http://localhost:1313/projet/glass-coil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projet/glass-coil/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Control Nothing : Project Loving of the Log</title>
+      <link>http://localhost:1313/projet/loving-of-the-log/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projet/loving-of-the-log/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shoggoth Academie</title>
+      <link>http://localhost:1313/projet/academie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projet/academie/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
