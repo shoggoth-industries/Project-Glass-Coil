@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Project Glass Coil</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:40573/categories/</link>
     <description>Recent content in Categories on Project Glass Coil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:40573/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Security Research</title>
-      <link>http://localhost:1313/categories/security-research/</link>
+      <link>http://localhost:40573/categories/security-research/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/security-research/</guid>
+      <guid>http://localhost:40573/categories/security-research/</guid>
       <description></description>
       
     </item>
